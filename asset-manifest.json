@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/logInOutRedux/static/css/main.73b11202.css",
+    "main.js": "/logInOutRedux/static/js/main.f15e67b7.js",
+    "index.html": "/logInOutRedux/index.html",
+    "main.73b11202.css.map": "/logInOutRedux/static/css/main.73b11202.css.map",
+    "main.f15e67b7.js.map": "/logInOutRedux/static/js/main.f15e67b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73b11202.css",
+    "static/js/main.f15e67b7.js"
+  ]
+}
